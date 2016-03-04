@@ -1,0 +1,8 @@
+package restofstuff;
+
+public class overrideequals {
+
+	public boolean equals(boolean q){
+		return !q;
+	}
+}
